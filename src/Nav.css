@@ -1,0 +1,12 @@
+.Nav {
+    padding: 2rem;
+    background-color: blue;
+}
+
+.Nav a{
+    margin: 1rem;
+    color: white;
+    text-decoration-line: none;
+    justify-content: center;
+
+}

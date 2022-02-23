@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="Nav"
+    >
+      <a
+        href="/dogs/Whiskey"
+      >
+        Whiskey
+      </a>
+      <a
+        href="/dogs/Duke"
+      >
+        Duke
+      </a>
+      <a
+        href="/dogs/Perry"
+      >
+        Perry
+      </a>
+      <a
+        href="/dogs/Tubby"
+      >
+        Tubby
+      </a>
+    </nav>
+    <div
+      class="container"
+    >
+      <h1>
+        HELLOOOOOOO
+      </h1>
+      <div
+        class="row"
+      >
+        <div
+          class="col-3 mt-4"
+        >
+          <div
+            class="card"
+          >
+            <img
+              alt=""
+              class="card-img-top"
+              src="whiskey.jpg"
+            />
+            <div
+              class="card-body"
+            >
+              <h5
+                class="card-title"
+              >
+                Whiskey (5)
+              </h5>
+              <p
+                class="card-text"
+              >
+                Whiskey loves eating popcorn.Whiskey is a terrible guard dog.Whiskey wants to cuddle with you!
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-3 mt-4"
+        >
+          <div
+            class="card"
+          >
+            <img
+              alt=""
+              class="card-img-top"
+              src="duke.jpg"
+            />
+            <div
+              class="card-body"
+            >
+              <h5
+                class="card-title"
+              >
+                Duke (3)
+              </h5>
+              <p
+                class="card-text"
+              >
+                Duke believes that ball is life.Duke likes snow.Duke enjoys pawing other dogs.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-3 mt-4"
+        >
+          <div
+            class="card"
+          >
+            <img
+              alt=""
+              class="card-img-top"
+              src="perry.jpg"
+            />
+            <div
+              class="card-body"
+            >
+              <h5
+                class="card-title"
+              >
+                Perry (4)
+              </h5>
+              <p
+                class="card-text"
+              >
+                Perry loves all humans.Perry demolishes all snacks.Perry hates the rain.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-3 mt-4"
+        >
+          <div
+            class="card"
+          >
+            <img
+              alt=""
+              class="card-img-top"
+              src="tubby.jpg"
+            />
+            <div
+              class="card-body"
+            >
+              <h5
+                class="card-title"
+              >
+                Tubby (4)
+              </h5>
+              <p
+                class="card-text"
+              >
+                Tubby is really stupid.Tubby does not like walks.Angelina used to hate Tubby, but claims not to anymore.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
